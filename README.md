@@ -1,0 +1,2 @@
+這是一個新手練習Python的題目
+以及熟悉操作git與github
