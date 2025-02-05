@@ -1,0 +1,9 @@
+credit_number="1234-5678-9876-5432"
+first_num=credit_number[0]
+print(f"第一個字元是{first_num}")
+sec_num=credit_number[1]
+print(f"第二個字元是{sec_num}")
+first_To_four=credit_number[0:4]#0,1,2,3包頭不包尾
+print(f"從第一位到第四位的數字是{first_To_four}")
+last_one=credit_number[-1]#取得倒數第一個字元
+print(f"最後一個數字是{last_one}")
